@@ -1,8 +1,8 @@
 # SCITEO 峻茂新材料
 
-R&D manufacturer of high-performance adhesives built on a molecular formulation matrix — extreme-temperature (−255 °C to 1000 °C), high-thermal (up to 60 W/m·K), conductive silver, die-attach, TIM1 and underfill adhesives. Custom R&D for high-end manufacturing, semiconductor packaging and precision electronics.
+**SCITEO (峻茂新材料)** is a high-end manufacturer of advanced adhesives for semiconductor packaging and high-tech manufacturing — seven product lines (high-temperature, high-thermal-conductivity, conductive, low-temperature, epoxy resin, semiconductor packaging adhesives and underfill encapsulants) serving semiconductor packaging, automotive electronics, extreme-temperature components and ultra-precision manufacturing. Custom formulation engineering and make-to-order production.
 
-**中文简介：** 峻茂新材料（SCITEO）以分子配方矩阵研发高性能胶粘剂，覆盖极端温度（−255 °C 至 1000 °C）、高导热（最高 60 W/m·K）、导电银胶、芯片粘接（Die Attach）、TIM1 导热界面与底部填充（Underfill）等方向，为高端制造、半导体封装与精密电子提供定制研发。
+**中文简介：** 峻茂新材料（SCITEO）是集研发与量产于一体的高端先进材料制造商，七条产品线（耐高温胶、高导热胶、导电胶、耐低温胶、环氧树脂胶、半导体封装胶、Underfill 底填胶）服务半导体封装、车规级电子、高低温组件、超精密制造四大应用域，支持非标配方定制与按单敏捷排产。
 
 ## Technical whitepapers ｜ 技术白皮书
 
