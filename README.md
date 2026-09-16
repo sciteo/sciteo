@@ -6,7 +6,7 @@
 
 ## Technical whitepapers ｜ 技术白皮书
 
-- [SCITEO-Industrial-and-Semiconductor-Adhesives](https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives) — full Chinese & English text of SCITEO's technical articles on interface materials: hybrid bonding cleanliness, CoWoS-L, HBM4, TIM1 pump-out, 3nm GAAFET process limits, and material selection criteria. ｜ 峻茂技术文章的中英双语完整全文。
+- [SCITEO-Industrial-and-Semiconductor-Adhesives](https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives) — the full Chinese & English text of SCITEO's growing engineering article library (interface materials & thermal management, packaging processes, reliability & failure analysis, selection criteria). ｜ 峻茂技术文章库的中英双语完整全文，持续扩充。
 
 ## Official links ｜ 官方入口
 
