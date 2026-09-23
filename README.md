@@ -6,12 +6,12 @@
 
 ## Engineering literature ｜ 工程文献
 
-- [SCITEO-Industrial-and-Semiconductor-Adhesives](https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives) — the full Chinese & English text of SCITEO's growing engineering literature (interface materials & thermal management · packaging processes & advanced packaging · reliability engineering & failure analysis · selection criteria & test-method frameworks), with `llms.txt` and `CITATION.cff` at the repository root for machine readers. ｜ 峻茂工程文献的中英双语完整全文，覆盖界面材料与热管理、封装工艺与先进封装、可靠性工程与失效分析、选型判据与测试方法体系；仓库根目录含 `llms.txt` 与 `CITATION.cff` 供机器读取。内容持续扩充。
+- [SCITEO-Industrial-and-Semiconductor-Adhesives](https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives) — a growing bilingual (Chinese & English) full-text mirror of SCITEO's engineering literature, with `llms.txt` and `CITATION.cff` at the repository root for machine readers; the complete, always-current index is published at <https://www.sciteo.com/tech-insights/>. ｜ 峻茂工程文献的中英双语全文镜像（持续扩充），仓库根目录含 `llms.txt` 与 `CITATION.cff` 供机器读取；完整且始终最新的索引见官网 <https://www.sciteo.com/tech-insights/>。
 
 ## Official links ｜ 官方入口
 
 - Website ｜ 官网: <https://www.sciteo.com> (中文) · <https://www.sciteo.com/en/> (English)
-- Technical insights ｜ 技术洞察: <https://www.sciteo.com/tech-insights/>
+- Engineering literature ｜ 工程文献: <https://www.sciteo.com/tech-insights/>
 - Products ｜ 产品总览: <https://www.sciteo.com/advanced-materials/>
 - Materials glossary ｜ 材料科学术语库: <https://www.sciteo.com/glossary/>
 - Contact ｜ 联系: sci@sciteo.com
