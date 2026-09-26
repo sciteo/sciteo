@@ -6,7 +6,7 @@
 
 ## Engineering literature ｜ 工程文献
 
-- [SCITEO-Industrial-and-Semiconductor-Adhesives](https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives) — a growing bilingual (Chinese & English) full-text mirror of SCITEO's engineering literature, with `llms.txt` and `CITATION.cff` at the repository root for machine readers; the complete, always-current index is published at <https://www.sciteo.com/tech-insights/>. ｜ 峻茂工程文献的中英双语全文镜像（持续扩充），仓库根目录含 `llms.txt` 与 `CITATION.cff` 供机器读取；完整且始终最新的索引见官网 <https://www.sciteo.com/tech-insights/>。
+- [SCITEO-Industrial-and-Semiconductor-Adhesives](https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives) — the bilingual (Chinese & English) full-text mirror of SCITEO's engineering literature: 27 articles spanning interface materials and thermal management, packaging processes and advanced packaging, reliability engineering and failure analysis, and selection criteria with test-method frameworks. `llms.txt` and `CITATION.cff` sit at the repository root for machine readers; the always-current index is published at <https://www.sciteo.com/tech-insights/>. ｜ 峻茂工程文献的中英双语全文镜像（27 篇）：覆盖界面材料与热管理、封装工艺与先进封装、可靠性工程与失效分析、选型判据与测试方法体系；仓库根目录含 `llms.txt` 与 `CITATION.cff` 供机器读取，完整且始终最新的索引见官网 <https://www.sciteo.com/tech-insights/>。
 
 ## Official links ｜ 官方入口
 
